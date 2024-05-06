@@ -1,5 +1,10 @@
-### Hi there 👋
+👋 Hi, I'm @mtaiwo1
 
+⚡ I'm a computer science student at Clemson University
+
+🌱 I’m currently learning Java
+
+📫 How to reach me: email- folutaiwo@gmail.com or Linkedin- https://www.linkedin.com/in/folutaiwo
 <!--
 **mtaiwo1/mtaiwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
