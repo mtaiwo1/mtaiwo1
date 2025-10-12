@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **email- folutaiwo@gmail.com or Linkedin- https://www.linkedin.com/in/folutaiwo**
+- 📫 How to reach me **email- folutaiwo5@gmail.com or Linkedin- https://www.linkedin.com/in/folutaiwo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
