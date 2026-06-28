@@ -138,7 +138,7 @@ Logged **100+** critical bugs across **900+** test cases at Eleos Technologies
 
 <sub>
 
-`👀` &nbsp;![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=Visitors&color=0d0d0d&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=Visitors&color=0d0d0d&style=flat-square)
 
 </sub>
 
