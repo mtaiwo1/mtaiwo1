@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a2e1a,100:0d0d0d&height=200&section=header" width="100%"/>
+<img src="./assets/banner.svg" width="100%" height="220"/>
+
+<br><br>
 
 <table border="0">
 <tr>
