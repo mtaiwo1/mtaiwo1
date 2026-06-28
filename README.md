@@ -1,146 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d8a3a,100:8b5a2b&height=200&section=header&text=FOLU%20TAIWO&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Crafting%20software,%20one%20block%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://img.shields.io/badge/%20-_LEVEL_27_PLAYER_-3b3b3b?style=for-the-badge&logo=minecraft&logoColor=55FF55&labelColor=2b2b2b" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-55FF55?style=for-the-badge&labelColor=2b2b2b" />
-<img src="https://img.shields.io/badge/MODE-SURVIVAL-FFAA00?style=for-the-badge&labelColor=2b2b2b" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1f0d,100:1a1a1a&height=280&section=header" width="100%"/>
 
 <br>
 
-```diff
-+ Joined the server: Computer Science @ Clemson University, expected May 2027
-+ Current build: Software Engineer Intern @ Truist, Atlanta GA
-+ Last expedition: AI Software Engineer (Contract) @ Handshake
-+ Guild membership: NSBE (Secretary) | ColorStack
-```
+<img src="https://img.shields.io/badge/FOLU_TAIWO-2b2b2b?style=for-the-badge&logoColor=ffffff&labelColor=2b2b2b" height="90"/>
 
-<br>
-
-## ⛏️ CRAFTING TABLE — Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/C/C++-2b2b2b?style=for-the-badge&logo=cplusplus&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/Java-2b2b2b?style=for-the-badge&logo=openjdk&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=FFAA00" />
-<img src="https://img.shields.io/badge/TypeScript-2b2b2b?style=for-the-badge&logo=typescript&logoColor=5555FF" />
-<img src="https://img.shields.io/badge/SQL-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=5555FF" />
-
-**Frameworks & Libraries**
-
-<img src="https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=55FFFF" />
-<img src="https://img.shields.io/badge/FastAPI-2b2b2b?style=for-the-badge&logo=fastapi&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/PostgreSQL-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=5555FF" />
-<img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=for-the-badge&logo=pytorch&logoColor=FF5555" />
-<img src="https://img.shields.io/badge/Pandas-2b2b2b?style=for-the-badge&logo=pandas&logoColor=55FFFF" />
-
-**Tools & Infra**
-
-<img src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=FF5555" />
-<img src="https://img.shields.io/badge/Docker-2b2b2b?style=for-the-badge&logo=docker&logoColor=5555FF" />
-<img src="https://img.shields.io/badge/AWS-2b2b2b?style=for-the-badge&logo=amazonaws&logoColor=FFAA00" />
-<img src="https://img.shields.io/badge/Terraform-2b2b2b?style=for-the-badge&logo=terraform&logoColor=AA00FF" />
-<img src="https://img.shields.io/badge/Linux-2b2b2b?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-
-</div>
-
-<br>
-
-## 🎒 INVENTORY — Equipped Items
-
-<div align="center">
-<table>
-<tr>
-<th>Slot</th><th>Item</th><th>Enchantment</th>
-</tr>
-<tr>
-<td align="center">1</td>
-<td><b>Diamond Pickaxe</b></td>
-<td>Backend Engineering V</td>
-</tr>
-<tr>
-<td align="center">2</td>
-<td><b>Redstone Circuit</b></td>
-<td>Infra Automation (AWS Lambda, Terraform, SSM)</td>
-</tr>
-<tr>
-<td align="center">3</td>
-<td><b>Enchanted Book</b></td>
-<td>LLM Evaluation & Prompt Benchmarking</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td><b>Compass</b></td>
-<td>Cybersecurity Fundamentals</td>
-</tr>
-<tr>
-<td align="center">5</td>
-<td><b>Elytra</b></td>
-<td>Full-Stack Shipping (React + FastAPI + Postgres)</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-Audited_114_AWS_Accounts-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-5hr_Audit_→_Under_2min-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-Shipped_50%2B_LLM_Benchmarks-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-900%2B_Test_Cases_Executed-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-NSBE_Secretary_Elected-c6c6c6?style=for-the-badge&labelColor=2b2b2b" />
-
-</div>
-
-<br>
-
-## 📊 XP BAR — Stats Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mtaiwo1&show_icons=true&hide_border=true&bg_color=2b2b2b&title_color=55FF55&icon_color=FFAA00&text_color=c6c6c6&ring_color=55FF55" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaiwo1&layout=compact&hide_border=true&bg_color=2b2b2b&title_color=55FF55&text_color=c6c6c6" width="35%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=mtaiwo1&hide_border=true&background=2b2b2b&ring=55FF55&fire=FFAA00&currStreakLabel=55FF55&sideLabels=c6c6c6&dates=808080" width="60%" />
-
-</div>
-
-<br>
-
-## 🐔 MOB SPAWNER — Recent Activity
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=mtaiwo1&bg_color=2b2b2b&color=55FF55&line=FFAA00&point=ffffff&hide_border=true)](https://github.com/mtaiwo1)
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📡 Reach me on the server
-
-<a href="https://linkedin.com/in/folutaiwo"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=5555FF" /></a>
-<a href="mailto:folutaiwo5@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FF5555" /></a>
+<sub><i>Software Engineer • Clemson University '27</i></sub>
 
 <br><br>
 
-![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=PLAYERS%20WHO%20JOINED%20THIS%20WORLD&color=5d8a3a&style=for-the-badge)
+<table border="0">
+<tr><td align="center">
+
+<a href="#-now-playing">
+<img src="https://img.shields.io/badge/▸_NOW_PLAYING-4a4a4a?style=for-the-badge&logoColor=7fb069&labelColor=3a3a3a" width="280" height="42"/>
+</a>
+
+</td></tr>
+<tr><td align="center">
+
+<a href="#-the-build-kit">
+<img src="https://img.shields.io/badge/▸_THE_BUILD_KIT-4a4a4a?style=for-the-badge&logoColor=7fb069&labelColor=3a3a3a" width="280" height="42"/>
+</a>
+
+</td></tr>
+<tr><td align="center">
+
+<a href="#-achievements">
+<img src="https://img.shields.io/badge/▸_ACHIEVEMENTS-4a4a4a?style=for-the-badge&logoColor=7fb069&labelColor=3a3a3a" width="280" height="42"/>
+</a>
+
+</td></tr>
+<tr><td align="center">
+
+<a href="#-server-status">
+<img src="https://img.shields.io/badge/▸_SERVER_STATUS-4a4a4a?style=for-the-badge&logoColor=7fb069&labelColor=3a3a3a" width="280" height="42"/>
+</a>
+
+</td></tr>
+<tr><td align="center">
+
+<a href="mailto:folutaiwo5@gmail.com">
+<img src="https://img.shields.io/badge/▸_CONTACT-4a4a4a?style=for-the-badge&logoColor=7fb069&labelColor=3a3a3a" width="280" height="42"/>
+</a>
+
+</td></tr>
+</table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5a2b,100:5d8a3a&height=100&section=footer" width="100%"/>
+<sub>v1.0 &nbsp;&nbsp;|&nbsp;&nbsp; github.com/mtaiwo1</sub>
+
+</div>
+
+<br><br>
+
+## ▸ NOW PLAYING
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🟩 Truist** — Atlanta, GA
+Software Engineer Intern
+`May 2026 – Present`
+
+Automated AWS account audits and infra hardening across 100+ accounts with Python, Lambda, and Terraform — cut a 5-hour manual audit to under 2 minutes.
+
+</td>
+<td width="33%" valign="top">
+
+**⬛ Handshake** — Remote
+AI Software Engineer (Contract)
+`Feb 2026 – May 2026`
+
+Built and benchmarked LLM coding evaluations across 50+ prompts inside containerized test environments.
+
+</td>
+<td width="33%" valign="top">
+
+**🟫 Eleos Technologies** — Clemson, SC
+Software Engineer Intern
+`Apr 2025 – Sep 2025`
+
+Shipped 200+ automated test scripts, cutting manual QA time by 60% across release cycles.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ▸ THE BUILD KIT
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><sub><b>C/C++</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br><sub><b>FastAPI</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br><sub><b>PyTorch</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br><sub><b>Docker</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br><sub><b>AWS</b></sub></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=terraform" width="40"/><br><sub><b>Terraform</b></sub></td>
+</tr>
+</table>
+
+<br>
+
+## ▸ ACHIEVEMENTS
+
+| | |
+|---|---|
+| 🏆 | **Speedrunner** — Cut a 5-hour AWS audit down to under 2 minutes |
+| 🏆 | **Master Builder** — Automated infrastructure hardening across 100+ tagged EC2 instances |
+| 🏆 | **Diamond Hands** — Shipped 50+ prompt benchmarks for LLM code-gen evaluation |
+| 🏆 | **Bug Hunter** — Logged 100+ critical bugs across 900+ executed test cases |
+| 🏆 | **Server Admin** — Elected Secretary, NSBE Clemson Chapter |
+
+<br>
+
+## ▸ SERVER STATUS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mtaiwo1&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=7fb069&icon_color=4a90d9&text_color=e8e8e8&ring_color=7fb069" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaiwo1&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=7fb069&text_color=e8e8e8" width="35%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=mtaiwo1&hide_border=true&background=1a1a1a&ring=7fb069&fire=e8853d&currStreakLabel=7fb069&sideLabels=e8e8e8&dates=808080" width="60%" />
+
+<br><br>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtaiwo1&bg_color=1a1a1a&color=7fb069&line=e8853d&point=ffffff&hide_border=true)](https://github.com/mtaiwo1)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NSBE-Secretary-3a8d3a?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/ColorStack-Fellow-2767b5?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Clemson_University-CS_%2727-d9534f?style=for-the-badge&labelColor=1a1a1a" />
+
+<br><br>
+
+![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=PLAYERS%20WHO%20JOINED%20THIS%20WORLD&color=3a8d3a&style=for-the-badge)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:0d1f0d&height=120&section=footer" width="100%"/>
 
 </div>
