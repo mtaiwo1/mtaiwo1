@@ -23,9 +23,7 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=8FBC6A)](mailto:folutaiwo5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=8FBC6A)](https://linkedin.com/in/folutaiwo)
-[![GitHub](https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=8FBC6A)](https://github.com/mtaiwo1)
+[`✉️ email`](mailto:folutaiwo5@gmail.com) &nbsp;&nbsp; [`🔗 linkedin`](https://linkedin.com/in/folutaiwo) &nbsp;&nbsp; [`💻 github`](https://github.com/mtaiwo1)
 
 </div>
 
@@ -140,7 +138,7 @@ Logged **100+** critical bugs across **900+** test cases at Eleos Technologies
 
 <sub>
 
-![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=Visitors&color=0d0d0d&style=flat-square)
+`👀` &nbsp;![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=Visitors&color=0d0d0d&style=flat-square)
 
 </sub>
 
