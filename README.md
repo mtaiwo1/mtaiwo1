@@ -1,14 +1,10 @@
 <div align="center">
 
-<br>
-
-# Folu Taiwo
-
-**Software Engineer** · Clemson University, CS '27
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0d0d,50:1a2e1a,100:0d0d0d&height=180&section=header&text=FOLU%20TAIWO&fontSize=46&fontColor=e8e8e8&fontAlignY=50&desc=Software%20Engineer%20·%20Clemson%20University%20%2727&descAlignY=70&descSize=15&descColor=8fbc6a" width="100%"/>
 
 <sub>building things, one block at a time 🟩</sub>
 
-<br>
+<br><br>
 
 [![Email](https://img.shields.io/badge/-Email-141414?style=flat-square&logo=gmail&logoColor=8fbc6a)](mailto:folutaiwo5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=8fbc6a)](https://linkedin.com/in/folutaiwo)
@@ -20,7 +16,7 @@
 
 ---
 
-### Currently
+### 🧱 Currently
 
 **Software Engineer Intern** at Truist · Atlanta, GA — *May 2026 – Present*
 Automating AWS account audits and infrastructure hardening across 100+ accounts with Python, Lambda, and Terraform.
@@ -30,7 +26,7 @@ Automating AWS account audits and infrastructure hardening across 100+ accounts 
 
 <br>
 
-### Stack
+### ⛏️ Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,fastapi,postgres,pytorch,docker,aws,terraform,git,linux" />
@@ -38,7 +34,7 @@ Automating AWS account audits and infrastructure hardening across 100+ accounts 
 
 <br>
 
-### Highlights
+### 🏆 Highlights
 
 - Cut a 5-hour manual AWS audit down to **under 2 minutes**, flagging issues across **114 accounts**
 - Automated infrastructure hardening on **100+** tagged EC2 instances via Terraform + SSM
@@ -48,7 +44,7 @@ Automating AWS account audits and infrastructure hardening across 100+ accounts 
 
 <br>
 
-### GitHub
+### 📡 GitHub
 
 <div align="center">
 
@@ -69,4 +65,9 @@ Automating AWS account audits and infrastructure hardening across 100+ accounts 
 ![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=Visitors&color=141414&style=flat-square)
 
 </sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0d0d,50:1a2e1a,100:0d0d0d&height=80&section=footer" width="100%"/>
+
 </div>
