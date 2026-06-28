@@ -11,7 +11,7 @@
 </td>
 <td valign="middle">
 
-# `Folu Taiwo`
+## `Folu Taiwo`
 
 **Software Engineer** &nbsp;·&nbsp; Clemson University, CS '27
 
@@ -129,7 +129,7 @@ Logged **100+** critical bugs across **900+** test cases at Eleos Technologies
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mtaiwo1/mtaiwo1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtaiwo1/mtaiwo1/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mtaiwo1/mtaiwo1/output/github-snake.svg" width="100%" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mtaiwo1/mtaiwo1/output/github-snake.svg" width="75%" />
 </picture>
 
 </div>
@@ -137,11 +137,6 @@ Logged **100+** critical bugs across **900+** test cases at Eleos Technologies
 <br>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/NSBE-Secretary-1a2e1a?style=for-the-badge&logoColor=8FBC6A" />
-<img src="https://img.shields.io/badge/ColorStack-Fellow-1a2e1a?style=for-the-badge&logoColor=8FBC6A" />
-
-<br><br>
 
 <sub>
 
