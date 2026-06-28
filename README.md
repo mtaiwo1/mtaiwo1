@@ -126,16 +126,17 @@ Logged **100+** critical bugs across **900+** test cases at Eleos Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mtaiwo1&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=8FBC6A&icon_color=8FBC6A&text_color=c4c4c4&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaiwo1&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=8FBC6A&text_color=c4c4c4" width="35.6%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mtaiwo1&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=8FBC6A&icon_color=8FBC6A&text_color=c4c4c4&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=mtaiwo1&hide_border=true&background=0d0d0d&ring=8FBC6A&fire=E8853D&currStreakLabel=8FBC6A&sideLabels=c4c4c4&dates=6b6b6b" width="38%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=mtaiwo1&hide_border=true&background=0d0d0d&ring=8FBC6A&fire=E8853D&currStreakLabel=8FBC6A&sideLabels=c4c4c4&dates=6b6b6b" width="58%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mtaiwo1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="92%" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mtaiwo1&bg_color=0d0d0d&color=8FBC6A&line=E8853D&point=ffffff&hide_border=true&area=true" width="92%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaiwo1&layout=donut-vertical&hide_border=true&bg_color=0d0d0d&title_color=8FBC6A&text_color=c4c4c4" width="32%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mtaiwo1&bg_color=0d0d0d&color=8FBC6A&line=E8853D&point=ffffff&hide_border=true&area=true" width="58%" />
 
 </div>
 
