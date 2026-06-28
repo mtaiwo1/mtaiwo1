@@ -11,7 +11,7 @@
 </td>
 <td valign="middle">
 
-# `Folu Taiwo`
+### `folu taiwo`
 
 **Software Engineer** &nbsp;·&nbsp; Clemson University, CS '27
 
@@ -34,7 +34,7 @@
 <table width="100%" border="0">
 <tr><td>
 
-### `🧱 SIDE QUESTS`
+**`🧱 side quests`**
 
 </td></tr>
 <tr><td>
@@ -50,7 +50,7 @@
 
 <br>
 
-### `⛏️ INVENTORY`
+**`⛏️ inventory`**
 
 <table width="100%" border="0">
 <tr>
@@ -87,7 +87,7 @@
 
 <br>
 
-### `🏆 HIGHLIGHTS`
+**`🏆 highlights`**
 
 <table width="100%" border="0">
 <tr>
@@ -122,7 +122,7 @@ Logged **100+** critical bugs across **900+** test cases at Eleos Technologies
 
 <br>
 
-### `🐍 CONTRIBUTIONS`
+**`🐍 contributions`**
 
 <div align="center">
 
