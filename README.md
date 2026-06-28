@@ -11,7 +11,7 @@
 </td>
 <td valign="middle">
 
-<img src="https://img.shields.io/badge/Folu_Taiwo-3a3a3a?style=for-the-badge&logoColor=ffffff&labelColor=3a3a3a" height="36"/>
+# `Folu Taiwo`
 
 **Software Engineer** &nbsp;·&nbsp; Clemson University, CS '27
 
@@ -34,7 +34,7 @@
 <table width="100%" border="0">
 <tr><td>
 
-<img src="https://img.shields.io/badge/🧱_SIDE_QUESTS-3a3a3a?style=for-the-badge&logoColor=8FBC6A&labelColor=3a3a3a" height="32"/>
+### `🧱 SIDE QUESTS`
 
 </td></tr>
 <tr><td>
@@ -50,11 +50,7 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/⛏️_INVENTORY-3a3a3a?style=for-the-badge&logoColor=8FBC6A&labelColor=3a3a3a" height="32"/>
-
-</div>
+### `⛏️ INVENTORY`
 
 <table width="100%" border="0">
 <tr>
@@ -91,11 +87,7 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆_HIGHLIGHTS-3a3a3a?style=for-the-badge&logoColor=8FBC6A&labelColor=3a3a3a" height="32"/>
-
-</div>
+### `🏆 HIGHLIGHTS`
 
 <table width="100%" border="0">
 <tr>
@@ -130,11 +122,7 @@ Logged **100+** critical bugs across **900+** test cases at Eleos Technologies
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🐍_CONTRIBUTIONS-3a3a3a?style=for-the-badge&logoColor=8FBC6A&labelColor=3a3a3a" height="32"/>
-
-</div>
+### `🐍 CONTRIBUTIONS`
 
 <div align="center">
 
