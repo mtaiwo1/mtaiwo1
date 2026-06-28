@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1f0d,100:1a1a1a&height=280&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1f0d,100:1a1a1a&height=220&section=header" width="100%"/>
 
 <br>
 
@@ -8,7 +8,15 @@
 
 <sub><i>Software Engineer • Clemson University '27</i></sub>
 
-<br><br>
+</div>
+
+<img src="./assets/divider.svg" width="100%" height="28"/>
+
+<div align="center">
+
+<img src="./assets/character.svg" width="110"/>
+
+<br>
 
 <table border="0">
 <tr><td align="center">
@@ -54,9 +62,10 @@
 
 </div>
 
+<img src="./assets/divider.svg" width="100%" height="28"/>
 <br><br>
 
-## ▸ NOW PLAYING
+## <img src="./assets/chest.svg" width="28" valign="middle"/> NOW PLAYING
 
 <table>
 <tr>
@@ -92,7 +101,7 @@ Shipped 200+ automated test scripts, cutting manual QA time by 60% across releas
 
 <br>
 
-## ▸ THE BUILD KIT
+## <img src="./assets/pickaxe.svg" width="28" valign="middle"/> THE BUILD KIT
 
 <table>
 <tr>
@@ -113,7 +122,7 @@ Shipped 200+ automated test scripts, cutting manual QA time by 60% across releas
 
 <br>
 
-## ▸ ACHIEVEMENTS
+## <img src="./assets/book.svg" width="28" valign="middle"/> ACHIEVEMENTS
 
 | | |
 |---|---|
@@ -125,7 +134,7 @@ Shipped 200+ automated test scripts, cutting manual QA time by 60% across releas
 
 <br>
 
-## ▸ SERVER STATUS
+## <img src="./assets/compass.svg" width="28" valign="middle"/> SERVER STATUS
 
 <div align="center">
 
@@ -143,6 +152,8 @@ Shipped 200+ automated test scripts, cutting manual QA time by 60% across releas
 </div>
 
 <br>
+
+<img src="./assets/divider.svg" width="100%" height="28"/>
 
 <div align="center">
 
