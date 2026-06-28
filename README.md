@@ -1,14 +1,146 @@
-<h1 align="center">Hi 👋, I'm Folu Taiwo</h1>
-<h3 align="center">I'm a computer science student at Clemson University</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **AWS**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d8a3a,100:8b5a2b&height=200&section=header&text=FOLU%20TAIWO&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Crafting%20software,%20one%20block%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
 
-- 📫 How to reach me **email- folutaiwo5@gmail.com or Linkedin- https://www.linkedin.com/in/folutaiwo**
+<img src="https://img.shields.io/badge/%20-_LEVEL_27_PLAYER_-3b3b3b?style=for-the-badge&logo=minecraft&logoColor=55FF55&labelColor=2b2b2b" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-55FF55?style=for-the-badge&labelColor=2b2b2b" />
+<img src="https://img.shields.io/badge/MODE-SURVIVAL-FFAA00?style=for-the-badge&labelColor=2b2b2b" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/folutaiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="folutaiwo" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
+
+```diff
++ Joined the server: Computer Science @ Clemson University, expected May 2027
++ Current build: Software Engineer Intern @ Truist, Atlanta GA
++ Last expedition: AI Software Engineer (Contract) @ Handshake
++ Guild membership: NSBE (Secretary) | ColorStack
+```
+
+<br>
+
+## ⛏️ CRAFTING TABLE — Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=55FF55" />
+<img src="https://img.shields.io/badge/C/C++-2b2b2b?style=for-the-badge&logo=cplusplus&logoColor=55FF55" />
+<img src="https://img.shields.io/badge/Java-2b2b2b?style=for-the-badge&logo=openjdk&logoColor=55FF55" />
+<img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=FFAA00" />
+<img src="https://img.shields.io/badge/TypeScript-2b2b2b?style=for-the-badge&logo=typescript&logoColor=5555FF" />
+<img src="https://img.shields.io/badge/SQL-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=5555FF" />
+
+**Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=55FFFF" />
+<img src="https://img.shields.io/badge/FastAPI-2b2b2b?style=for-the-badge&logo=fastapi&logoColor=55FF55" />
+<img src="https://img.shields.io/badge/PostgreSQL-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=5555FF" />
+<img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=for-the-badge&logo=pytorch&logoColor=FF5555" />
+<img src="https://img.shields.io/badge/Pandas-2b2b2b?style=for-the-badge&logo=pandas&logoColor=55FFFF" />
+
+**Tools & Infra**
+
+<img src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=FF5555" />
+<img src="https://img.shields.io/badge/Docker-2b2b2b?style=for-the-badge&logo=docker&logoColor=5555FF" />
+<img src="https://img.shields.io/badge/AWS-2b2b2b?style=for-the-badge&logo=amazonaws&logoColor=FFAA00" />
+<img src="https://img.shields.io/badge/Terraform-2b2b2b?style=for-the-badge&logo=terraform&logoColor=AA00FF" />
+<img src="https://img.shields.io/badge/Linux-2b2b2b?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+
+</div>
+
+<br>
+
+## 🎒 INVENTORY — Equipped Items
+
+<div align="center">
+<table>
+<tr>
+<th>Slot</th><th>Item</th><th>Enchantment</th>
+</tr>
+<tr>
+<td align="center">1</td>
+<td><b>Diamond Pickaxe</b></td>
+<td>Backend Engineering V</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td><b>Redstone Circuit</b></td>
+<td>Infra Automation (AWS Lambda, Terraform, SSM)</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td><b>Enchanted Book</b></td>
+<td>LLM Evaluation & Prompt Benchmarking</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td><b>Compass</b></td>
+<td>Cybersecurity Fundamentals</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td><b>Elytra</b></td>
+<td>Full-Stack Shipping (React + FastAPI + Postgres)</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-Audited_114_AWS_Accounts-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
+<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-5hr_Audit_→_Under_2min-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
+<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-Shipped_50%2B_LLM_Benchmarks-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
+<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-900%2B_Test_Cases_Executed-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
+<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-NSBE_Secretary_Elected-c6c6c6?style=for-the-badge&labelColor=2b2b2b" />
+
+</div>
+
+<br>
+
+## 📊 XP BAR — Stats Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mtaiwo1&show_icons=true&hide_border=true&bg_color=2b2b2b&title_color=55FF55&icon_color=FFAA00&text_color=c6c6c6&ring_color=55FF55" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaiwo1&layout=compact&hide_border=true&bg_color=2b2b2b&title_color=55FF55&text_color=c6c6c6" width="35%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=mtaiwo1&hide_border=true&background=2b2b2b&ring=55FF55&fire=FFAA00&currStreakLabel=55FF55&sideLabels=c6c6c6&dates=808080" width="60%" />
+
+</div>
+
+<br>
+
+## 🐔 MOB SPAWNER — Recent Activity
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=mtaiwo1&bg_color=2b2b2b&color=55FF55&line=FFAA00&point=ffffff&hide_border=true)](https://github.com/mtaiwo1)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📡 Reach me on the server
+
+<a href="https://linkedin.com/in/folutaiwo"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=5555FF" /></a>
+<a href="mailto:folutaiwo5@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FF5555" /></a>
+
+<br><br>
+
+![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=PLAYERS%20WHO%20JOINED%20THIS%20WORLD&color=5d8a3a&style=for-the-badge)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5a2b,100:5d8a3a&height=100&section=footer" width="100%"/>
+
+</div>
