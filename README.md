@@ -1,146 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d8a3a,100:8b5a2b&height=200&section=header&text=FOLU%20TAIWO&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Crafting%20software,%20one%20block%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
+<br>
 
-<img src="https://img.shields.io/badge/%20-_LEVEL_27_PLAYER_-3b3b3b?style=for-the-badge&logo=minecraft&logoColor=55FF55&labelColor=2b2b2b" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-55FF55?style=for-the-badge&labelColor=2b2b2b" />
-<img src="https://img.shields.io/badge/MODE-SURVIVAL-FFAA00?style=for-the-badge&labelColor=2b2b2b" />
+# Folu Taiwo
+
+**Software Engineer** · Clemson University, CS '27
+
+<sub>building things, one block at a time 🟩</sub>
+
+<br>
+
+[![Email](https://img.shields.io/badge/-Email-141414?style=flat-square&logo=gmail&logoColor=8fbc6a)](mailto:folutaiwo5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=8fbc6a)](https://linkedin.com/in/folutaiwo)
+[![GitHub](https://img.shields.io/badge/-GitHub-141414?style=flat-square&logo=github&logoColor=8fbc6a)](https://github.com/mtaiwo1)
+
+<br>
 
 </div>
 
+---
+
+### Currently
+
+**Software Engineer Intern** at Truist · Atlanta, GA — *May 2026 – Present*
+Automating AWS account audits and infrastructure hardening across 100+ accounts with Python, Lambda, and Terraform.
+
+**Previously:** AI Software Engineer (Contract) at Handshake · *Feb – May 2026* — built and benchmarked 50+ LLM coding-eval prompts.
+**Secretary**, NSBE Clemson Chapter · ColorStack Fellow.
+
 <br>
 
-```diff
-+ Joined the server: Computer Science @ Clemson University, expected May 2027
-+ Current build: Software Engineer Intern @ Truist, Atlanta GA
-+ Last expedition: AI Software Engineer (Contract) @ Handshake
-+ Guild membership: NSBE (Secretary) | ColorStack
-```
+### Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,fastapi,postgres,pytorch,docker,aws,terraform,git,linux" />
+</p>
 
 <br>
 
-## ⛏️ CRAFTING TABLE — Tech Stack
+### Highlights
+
+- Cut a 5-hour manual AWS audit down to **under 2 minutes**, flagging issues across **114 accounts**
+- Automated infrastructure hardening on **100+** tagged EC2 instances via Terraform + SSM
+- Shipped **50+** prompt benchmarks for LLM code-generation evaluation at Handshake
+- Logged **100+** critical bugs across **900+** executed test cases at Eleos Technologies
+- Elected **Secretary**, NSBE Clemson — coordinating logistics for the full chapter
+
+<br>
+
+### GitHub
 
 <div align="center">
 
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/C/C++-2b2b2b?style=for-the-badge&logo=cplusplus&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/Java-2b2b2b?style=for-the-badge&logo=openjdk&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=FFAA00" />
-<img src="https://img.shields.io/badge/TypeScript-2b2b2b?style=for-the-badge&logo=typescript&logoColor=5555FF" />
-<img src="https://img.shields.io/badge/SQL-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=5555FF" />
-
-**Frameworks & Libraries**
-
-<img src="https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=55FFFF" />
-<img src="https://img.shields.io/badge/FastAPI-2b2b2b?style=for-the-badge&logo=fastapi&logoColor=55FF55" />
-<img src="https://img.shields.io/badge/PostgreSQL-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=5555FF" />
-<img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=for-the-badge&logo=pytorch&logoColor=FF5555" />
-<img src="https://img.shields.io/badge/Pandas-2b2b2b?style=for-the-badge&logo=pandas&logoColor=55FFFF" />
-
-**Tools & Infra**
-
-<img src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=FF5555" />
-<img src="https://img.shields.io/badge/Docker-2b2b2b?style=for-the-badge&logo=docker&logoColor=5555FF" />
-<img src="https://img.shields.io/badge/AWS-2b2b2b?style=for-the-badge&logo=amazonaws&logoColor=FFAA00" />
-<img src="https://img.shields.io/badge/Terraform-2b2b2b?style=for-the-badge&logo=terraform&logoColor=AA00FF" />
-<img src="https://img.shields.io/badge/Linux-2b2b2b?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mtaiwo1&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=8fbc6a&icon_color=8fbc6a&text_color=c4c4c4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaiwo1&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=8fbc6a&text_color=c4c4c4" width="35%" />
 
 <br>
 
-## 🎒 INVENTORY — Equipped Items
-
-<div align="center">
-<table>
-<tr>
-<th>Slot</th><th>Item</th><th>Enchantment</th>
-</tr>
-<tr>
-<td align="center">1</td>
-<td><b>Diamond Pickaxe</b></td>
-<td>Backend Engineering V</td>
-</tr>
-<tr>
-<td align="center">2</td>
-<td><b>Redstone Circuit</b></td>
-<td>Infra Automation (AWS Lambda, Terraform, SSM)</td>
-</tr>
-<tr>
-<td align="center">3</td>
-<td><b>Enchanted Book</b></td>
-<td>LLM Evaluation & Prompt Benchmarking</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td><b>Compass</b></td>
-<td>Cybersecurity Fundamentals</td>
-</tr>
-<tr>
-<td align="center">5</td>
-<td><b>Elytra</b></td>
-<td>Full-Stack Shipping (React + FastAPI + Postgres)</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-Audited_114_AWS_Accounts-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-5hr_Audit_→_Under_2min-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-Shipped_50%2B_LLM_Benchmarks-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-900%2B_Test_Cases_Executed-c6c6c6?style=for-the-badge&labelColor=2b2b2b" /><br>
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-NSBE_Secretary_Elected-c6c6c6?style=for-the-badge&labelColor=2b2b2b" />
-
-</div>
-
-<br>
-
-## 📊 XP BAR — Stats Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mtaiwo1&show_icons=true&hide_border=true&bg_color=2b2b2b&title_color=55FF55&icon_color=FFAA00&text_color=c6c6c6&ring_color=55FF55" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaiwo1&layout=compact&hide_border=true&bg_color=2b2b2b&title_color=55FF55&text_color=c6c6c6" width="35%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=mtaiwo1&hide_border=true&background=2b2b2b&ring=55FF55&fire=FFAA00&currStreakLabel=55FF55&sideLabels=c6c6c6&dates=808080" width="60%" />
-
-</div>
-
-<br>
-
-## 🐔 MOB SPAWNER — Recent Activity
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=mtaiwo1&bg_color=2b2b2b&color=55FF55&line=FFAA00&point=ffffff&hide_border=true)](https://github.com/mtaiwo1)
+<img src="https://streak-stats.demolab.com/?user=mtaiwo1&hide_border=true&background=0d0d0d&ring=8fbc6a&fire=8fbc6a&currStreakLabel=8fbc6a&sideLabels=c4c4c4&dates=6b6b6b" width="58%" />
 
 </div>
 
 <br>
 
 <div align="center">
+<sub>
 
-### 📡 Reach me on the server
+![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=Visitors&color=141414&style=flat-square)
 
-<a href="https://linkedin.com/in/folutaiwo"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=5555FF" /></a>
-<a href="mailto:folutaiwo5@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FF5555" /></a>
-
-<br><br>
-
-![Visitors](https://komarev.com/ghpvc/?username=mtaiwo1&label=PLAYERS%20WHO%20JOINED%20THIS%20WORLD&color=5d8a3a&style=for-the-badge)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5a2b,100:5d8a3a&height=100&section=footer" width="100%"/>
-
+</sub>
 </div>
